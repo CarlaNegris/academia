@@ -1,6 +1,4 @@
-# Aula 16 - API CRUD de Produtos com Banco de Dados
-
-Nessa aula, realizamos a nossa API CRUD de Produtos acessando o Banco de Dados (Postgres) e trabalhamos async/await.
+# trabalho Final - API CRUD com Banco de Dados
 
 Lembrando que para executar:
 ```
@@ -8,5 +6,7 @@ npm install
 npm start
 ```
 
-Depois que adicionamos as rotas (router), o endpoint de acesso agora é:
-`http://localhost:3000/api/produtos`
+Endpoint de acesso:
+`http://localhost:3000/api/alunos`
+`http://localhost:3000/api/exercicios`
+`http://localhost:3000/api/treinos`
